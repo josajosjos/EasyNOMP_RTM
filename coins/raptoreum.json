@@ -1,0 +1,17 @@
+{
+    "name": "raptoreum",    
+    "symbol": "RTM",    
+    "algorithm": "ghostrider",
+    
+    "wallet": "https://github.com/Raptor3um/Raptoreum/releases",
+
+    "explorer":"https://explorer.raptoreum.com/",
+    
+    "explorerGetBlockJSON": "https://explorer.raptoreum.com/api/getblock?height=",
+    "explorerGetBlock": "https://explorer.raptoreum.com/api/getblock?height=",
+    "explorerGetTX": "https://explorer.raptoreum.com/api/getrawtransaction?txid=",
+    
+    "blockTime": 60,
+    "blockChange": 1
+    
+}
